@@ -7,11 +7,11 @@
 
 -   🌱 De momento estou a aprofundar **FullStack: PHP, Javascript, HTML, CSS, SQL**
 
--   👨‍💻 Alguns dos meus projectos estão disponíveis em [http://www.ww](http://www.ww)
+<!-- -   👨‍💻 Alguns dos meus projectos estão disponíveis em [http://www.ww](http://www.ww) -->
 
 -   📫 How to reach me **ruisantos021@gmail.com**
 
--   📄 Conheçam as minhas experiências [http://www.ww](http://www.ww)
+<!-- -   📄 Conheçam as minhas experiências [http://www.ww](http://www.ww) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
