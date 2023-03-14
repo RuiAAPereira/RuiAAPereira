@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Chamam-me Rui Pereira</h1>
+<h1 align="center">Olá 👋, Chamo-me Rui Pereira</h1>
 <h3 align="center">Sou um programador versátil auto-didacta</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruiaapereira&label=Profile%20views&color=0e75b6&style=flat" alt="ruiaapereira" /> </p>
